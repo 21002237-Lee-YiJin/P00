@@ -56,7 +56,7 @@ public class CalculatorTest {
 		
 		Calculator cal = new Calculator();
 		int actual = a * b;
-	}
+	}//
 	
 	@Test
 	public void testAddZero() {
